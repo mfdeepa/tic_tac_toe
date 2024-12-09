@@ -1,0 +1,2 @@
+class PlayersAndBoardCountMismatch(Exception):
+    pass

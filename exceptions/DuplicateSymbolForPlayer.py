@@ -1,0 +1,2 @@
+class DuplicateSymbolForPlayer(Exception):
+    pass

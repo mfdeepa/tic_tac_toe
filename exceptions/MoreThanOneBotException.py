@@ -1,0 +1,2 @@
+class MoreThanOneBotException(Exception):
+    pass
